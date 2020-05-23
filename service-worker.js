@@ -1,4 +1,4 @@
-const CACHE_NAME = "mltricks-v1.2";
+const CACHE_NAME = "mltricks-v1.3";
 var urlsToCache = [
   "/",
   "/manifest.json",
@@ -12,7 +12,6 @@ var urlsToCache = [
   "/pages/contact.html",
   "/css/materialize.min.css",
   "/js/materialize.min.js",
-  "/css/material-icons.css",
   "/css/style.css",
   "/js/nav.js",
   "/images/icons/ml-icon.png",
