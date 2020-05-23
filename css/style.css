@@ -1,0 +1,73 @@
+#body-content {
+  min-height: 300px;
+}
+
+h2 {
+  text-decoration: underline;
+}
+
+h5.grey-text {
+  margin-top: -18px;
+  margin-bottom: 25px;
+}
+
+.jumbo.responsive-img {
+  margin: 15px 0;
+}
+
+.link li a:hover {
+  text-decoration: underline;
+  color: #0069af;
+}
+
+div.row.list-heroes {
+  margin-top: 50px;
+  margin-bottom: 125px;
+}
+
+.card-content {
+  height: 230px;
+  overflow: hidden;
+}
+
+#body-content p,
+#body-content ul li {
+  font-size: 1.2em;
+}
+
+p.source {
+  margin-bottom: -100px;
+  margin-top: 75px;
+}
+
+button.btn.light-blue.darken-4:hover {
+  background-color: #67c7ff;
+  color: #2099df;
+}
+
+.card .card-image .btn-floating {
+  display: flex;
+}
+
+b.gow {
+  margin: auto;
+}
+
+/* img.jumbo.profile {
+  height: 225px;
+} */
+
+footer {
+  margin-top: 200px;
+  padding: 15px 0;
+}
+
+footer a {
+  color: #0099ff;
+  text-decoration: none;
+}
+
+footer a:hover {
+  color: #7bc6ff;
+  text-decoration: underline;
+}
